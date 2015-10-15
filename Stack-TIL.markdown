@@ -1,5 +1,14 @@
+---
+layout: post
+title:  "Test upload from Stackedit "
+date:   2015-10-15 04:44:00
+categories: TIL
+---
+
+> This is a test to see if I could upload an article directly from stackedit. 
+
 My First StackEdit Experience
-====
+=
  The learning point of this page is try to use StackEdit to edit my TIL blog post and ten to post it to github Huayinthon TIL post.
 
 Among other things, below are the milestones that I want to achieve:   
